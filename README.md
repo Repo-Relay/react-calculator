@@ -1,3 +1,7 @@
+# Project Summary:
+This project is provided by Web Dev Simplified (https://www.youtube.com/watch?v=DgRrrOt0Vr8).
+The underlying implementation is complete with all the logic functional, but lacks any styling.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
